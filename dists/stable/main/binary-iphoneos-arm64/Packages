@@ -1,0 +1,16 @@
+Package: com.yanis.redsettings
+Version: 4.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Yanis
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yanis.redsettings_4.0.1-1+debug_iphoneos-arm64.deb
+Size: 5148
+MD5sum: 1e4b511ce6def775084d556f70eb946f
+SHA1: 4df5da2d1fb925d790f5834317f920fe4eb2e56c
+SHA256: 0cbb0bb01414c2ba72ee2099828c2c506a8b38118e77a59f11c9fdffa09a5e50
+Section: Tweaks
+Description: Customizes the iOS Settings app with a red theme by YANIS!
+Author: Yanis
+Name: RedSettings
+
